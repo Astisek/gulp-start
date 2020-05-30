@@ -1,5 +1,5 @@
 # gulp-start
-Gulp file for my projects
+Gulp file for my projects(sass, html)
 
 Get all files: npm i
 
