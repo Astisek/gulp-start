@@ -9,7 +9,7 @@ var concat = require('gulp-concat');
 var imagemin = require('gulp-imagemin');
 var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
-var uglify = require('gulp-uglify');
+var uglify = require('gulp-uglify-es').default;
 var notify = require('gulp-notify');
 
 // Functions List
